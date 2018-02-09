@@ -5,21 +5,6 @@ A plugman compatible Cordova plugin for the Aviary photo editor.
 
 http://www.aviary.com
 
-Android Instructions
-===================
-plugman install -platform android -project %PROJECT_PATH% -plugin https://github.com/m1is/AviaryCordovaPlugin -variable API_KEY=%API_KEY%
-
-iOS Instructions
-===================
-Create a new Cordova project in Xcode then follow the Aviary setup guide to configure the project for the SDK.
-
-http://developers.aviary.com/docs/ios/setup-guide
-
-Then run the following command:
-
-plugman install -platform ios -project %PROJECT_PATH% -plugin https://github.com/m1is/AviaryCordovaPlugin
-
-
 Cordova (3.0+) Install Note:
 =============
 cordova plugin add https://github.com/m1is/AviaryCordovaPlugin
