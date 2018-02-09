@@ -7,7 +7,7 @@ http://www.aviary.com
 
 Cordova (3.0+) Install Note:
 =============
-cordova plugin add https://github.com/m1is/AviaryCordovaPlugin
+cordova plugin add https://github.com/CordovaViet/AviaryCordovaPlugin
 
 
 How to use the plugin
